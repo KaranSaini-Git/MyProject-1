@@ -5,7 +5,7 @@ This is the very first project I created and deployed on GitHub Pages as part of
 🔗 Live Preview
 
 You can view the project here:
-<a href=https://karansaini-git.github.io/MyProject-1/"" target="_blank">Karan Saini</a>
+<a href="https://karansaini-git.github.io/MyProject-1/" target="_blank">Karan Saini</a>
 
 
 📌 About the Project
