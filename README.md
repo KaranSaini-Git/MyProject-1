@@ -1,5 +1,3 @@
----
-
 MyProject-1
 
 This is the very first project I created and deployed on GitHub Pages as part of my learning journey in web development. I’m a Computer Science Engineering student, and this project marks the beginning of my hands-on practice with HTML, CSS, and basic frontend concepts.
@@ -7,7 +5,8 @@ This is the very first project I created and deployed on GitHub Pages as part of
 🔗 Live Preview
 
 You can view the project here:
-https://karansaini-git.github.io/MyProject-1/
+<a href=https://karansaini-git.github.io/MyProject-1/"" target="_blank">Karan Saini</a>
+
 
 📌 About the Project
 
@@ -64,5 +63,3 @@ More interactive elements using JavaScript
 
 Since this is my first GitHub project, it represents the start of my development journey. I’ll keep updating it as I grow my skills in web development and software engineering.
 
-
----
