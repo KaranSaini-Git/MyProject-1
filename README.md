@@ -1,14 +1,14 @@
-#MyProject-1
+MyProject-1
 
 This is the very first project I created and deployed on GitHub Pages as part of my learning journey in web development. I’m a Computer Science Engineering student, and this project marks the beginning of my hands-on practice with HTML, CSS, and basic frontend concepts.
 
-##🔗 Live Preview
+🔗 Live Preview
 
 You can view the project here:
 <a href="https://karansaini-git.github.io/MyProject-1/" target="_blank">Karan Saini</a>
 
 
-##📌 About the Project
+📌 About the Project
 
 This project is a simple static webpage built to understand how to structure HTML, style using CSS, and host a project online.
 I made this to get comfortable with:
@@ -24,7 +24,7 @@ Learning how to push code to GitHub and host using GitHub Pages
 
 It’s a beginner-level project, but it helped me understand the basics and boosted my confidence in web development.
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 
 HTML5
 
@@ -35,7 +35,7 @@ Git & GitHub
 GitHub Pages for deployment
 
 
-##📚 What I Learned
+📚 What I Learned
 
 While building this project, I learned:
 
@@ -48,7 +48,7 @@ How Git works (commits, pushes, version control basics)
 How to host a project using GitHub Pages
 
 
-##🚀 Future Improvements
+🚀 Future Improvements
 
 As I learn more, I plan to improve this project by adding:
 
@@ -59,7 +59,7 @@ Responsive layout for mobile screens
 More interactive elements using JavaScript
 
 
-##💬 Final Note
+💬 Final Note
 
 Since this is my first GitHub project, it represents the start of my development journey. I’ll keep updating it as I grow my skills in web development and software engineering.
 
